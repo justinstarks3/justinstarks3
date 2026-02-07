@@ -15,7 +15,7 @@ I'm a recent graduate of the University of Illinois Urbana-Champaign with a degr
 ![SQLite](https://img.shields.io/badge/SQLite-blue)
 
 
-## Connect With Me
+## Feel free to connect!
 - 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)
   
 
