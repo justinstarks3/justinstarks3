@@ -1,16 +1,33 @@
-## Hi there 👋
+## About Me
+I'm a recent graduate of the University of Illinois Urbana-Champaign with a degree in Finance & Data Science. I'm currently in the process of applying to graduate schools for Business Analytics and Data Science. In the near future, I aspire to be a data scientist with a focus on finance, business processes, workforce analytics, and sports analytics! 
 
-<!--
-**justinstarks3/justinstarks3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Justin Starks 👋
 
-Here are some ideas to get you started:
+## About Me
+Finance & Data Science graduate with interests in analytics, business intelligence, and sports analytics.  
+Currently working in Corporate Treasury Technology and planning to pursue an MS in Data Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## Tech Stack
+
+### Programming Languages
+![Python](https://img.shields.io/badge/Python-blue)
+![SQL](https://img.shields.io/badge/SQL-lightgrey)
+
+
+### Tools & Frameworks
+![Pandas](https://img.shields.io/badge/Pandas-black)
+![Tableau](https://img.shields.io/badge/Tableau-orange)
+![PowerBI](https://img.shields.io/badge/PowerBI-yellow)
+![SQLite](https://img.shields.io/badge/SQLite-blue)
+
+
+## Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/YOUR-LINK)
+  
+
+
+
+
+
