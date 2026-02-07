@@ -9,8 +9,6 @@ Currently working in Corporate Treasury Technology and planning to pursue an MS 
 
 ---
 
-## Tech Stack
-
 ### Programming Languages
 ![Python](https://img.shields.io/badge/Python-blue)
 ![SQL](https://img.shields.io/badge/SQL-lightgrey)
