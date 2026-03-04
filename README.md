@@ -9,7 +9,7 @@ I'm a recent graduate of the University of Illinois Urbana-Champaign with a degr
 
 
 ### Tools & Frameworks
-![Pandas](https://img.shields.io/badge/Pandas-black)
+![Pandas](https://img.shields.io/badge/Pandas-green)
 ![Tableau](https://img.shields.io/badge/Tableau-orange)
 ![PowerBI](https://img.shields.io/badge/PowerBI-yellow)
 ![SQLite](https://img.shields.io/badge/SQLite-blue)
