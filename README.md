@@ -1,5 +1,5 @@
 ## About Me
-I'm a recent graduate of the University of Illinois Urbana-Champaign with a degree in Finance & Data Science. I'm currently in the process of applying to graduate schools for Business Analytics and Data Science. In the near future, I aspire to be a data scientist with a focus on finance, business processes, workforce analytics, or sports analytics! 
+I'm a recent graduate of the University of Illinois Urbana-Champaign with a degree in Finance & Data Science. In the Fall, I'll be starting my Master's in Analytics at Georgia Tech. In the near future, I aspire to be a data scientist with a focus on finance, business processes, workforce analytics, or sports analytics! 
 
 ---
 
